@@ -1,4 +1,4 @@
-<h3>Activité pratique Web Services SOAP WSDL UDDI</h3>
+<h3>Web Services SOAP WSDL UDDI</h3>
 
 <img src="Screenshots/Localhost 8787.PNG">
 <hr/>
